@@ -4,11 +4,7 @@
 ### 介绍
 本主题由@BobS9开发并维护。
 此分支由 @dishujichang 创建
-此分支修复了一些问题（我不知道算不算问题，但对于我的机场来说是问题），因为这个分支是我机场自用的所以不会保证兼容性
-
-### 已修复的问题
-
-在主分支中导入clash订阅时会出现没有hy2 vless等协议的节点，即使客户端是clash meta内核的
+此分支更改了一些内容，使得更适合我机场，不保证适合其他机场
 
 ### 安装
 下载到`theme`目录过后要修改当前文件夹名为`Bob-Theme-Argon`，然后在后台选择主题 【Bob-Theme-Argon】 就行了
@@ -23,6 +19,5 @@
 ### 产品展示
 
 效果图可以看看我的机场： 
-https://dishujichang.xyz （被墙）
-https://dishucloud.top
+https://nbvpn.top
 
